@@ -26,7 +26,7 @@
 </tr>
 
 <tr>
-<td width="180" align="center"><h1>💌</h1><sub>소개팅 웹</sub></td>
+<td width="180" align="center"><img src="assets/sogaeting.jpg" width="150" alt="서울대 X 숭실대 X 중앙대 소개팅"/></td>
 <td>
 
 ### 대학생 소개팅 웹 💌

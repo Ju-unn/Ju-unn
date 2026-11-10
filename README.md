@@ -19,7 +19,7 @@
 ### [CampusMate](https://github.com/Ju-unn/Campus_mate_compose) 💘
 **나이 대신 잘 맞는 사람을 하루 한 명 추천하는 대학생 매칭 앱**
 
-소개팅 웹을 운영해 보니 나이대 조건만으로는 잘 맞는 상대를 고르기 어려웠어요(매칭 성공률 27.4%). 그래서 성향, 관심사, **자기소개 글의 뜻**을 비교하고 흡연 · 종교 같은 생활 조건은 감점하는 점수를 설계했어요. 출시 전이라 정답 기록이 없어서 **가상 계정 1000개**로 검증하며 10차례 고쳤고, 취향이 반대인 상대가 유료 카드에 드는 비율을 **21.6% → 5.8%**로 줄였습니다. 7주 만에 앱과 서버를 만들어 두 스토어에 제출했어요.
+소개팅 웹을 운영해 보니 나이대 조건만으로는 잘 맞는 상대를 고르기 어려웠어요(매칭 성공률 27.4%). 그래서 성향, 관심사, **자기소개 글의 뜻**을 비교하고 흡연 · 종교 같은 생활 조건은 감점하는 점수를 설계했어요. 출시 전이라 정답 기록이 없어서 **가상 계정 1000개**로 검증하며 10차례 고쳤고, 취향이 반대인 상대가 유료 카드에 드는 비율을 **21.6%에서 5.8%로** 줄였습니다. 7주 만에 앱과 서버를 만들어 두 스토어에 제출했어요.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase_·_pgvector-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_Embeddings-412991?style=flat-square&logo=openai&logoColor=white) ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 <br/>[💻 코드](https://github.com/Ju-unn/Campus_mate_compose) · <sub>App Store 심사 통과 · Google Play 심사 중</sub>

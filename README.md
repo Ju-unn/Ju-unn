@@ -5,8 +5,6 @@
 
 <a href="mailto:s26404538@gmail.com"><img src="https://img.shields.io/badge/Email-s26404538@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://velog.io/@ju-unn"><img src="https://img.shields.io/badge/Velog-@ju--unn-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="https://app.notion.com/p/ef6d998f0dee834297328171e575ba06"><img src="https://img.shields.io/badge/Notion-포트폴리오-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-
 <br/>
 
 ## 🏆 만든 것들

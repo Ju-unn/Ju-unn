@@ -73,7 +73,7 @@
 </tr>
 
 <tr>
-<td width="180" align="center"><a href="https://github.com/Ju-unn/codex-lean-kit"><h1>🧰</h1><sub>codex-lean-kit</sub></a></td>
+<td width="180" align="center"><a href="https://github.com/Ju-unn/codex-lean-kit"><img src="assets/codex-lean-kit.jpg" width="150"/></a></td>
 <td>
 
 ### [codex-lean-kit](https://github.com/Ju-unn/codex-lean-kit) 🧰
